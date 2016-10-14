@@ -94,3 +94,17 @@ https://www.lift.net/workout-routines/ed-coan-deadlift-routine/
 ## Smolov Jr for Bench
 
 http://www.smolovjr.com/smolov-squat-program/
+
+# Tools
+
+## Program Calculators
+
+- Black Iron Beast: http://blackironbeast.com/
+  + Starting Strength
+  + 5/3/1
+  + Beyond 5/3/1
+  + Cube
+
+## Nutrition Tracking
+
+http://myfitnesspal.com/
