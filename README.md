@@ -10,6 +10,16 @@ But before we start, here's a liftin' llama:
 
 If you think there's something I miseed (there will be), then feel free to open up a pull request and add it!
 
+# Contents
+
+* [The Lifts](#the-lifts)
+* [Reading Material](#reading-material)
+* [Video Resources](#video-resources)
+* [Basic Lifting Programs](#basic-lifting-programs)
+* [Advanced Lifting Programs](#advanced-lifting-programs)
+* [Specialized Programs](#specialized-programs)
+* [Nutrition Tracking](#nutrition-tracking)
+
 # The Lifts
 
 ## Squat
