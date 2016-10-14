@@ -12,6 +12,8 @@ But before we start, here's a liftin' llama:
 
 ![](https://media.giphy.com/media/AWfeFosX36RTW/giphy.gif)
 
+### The Basics
+
 http://stronglifts.com/squat/
 
 - Alan Thrall - How to squat high & low bar
@@ -23,15 +25,18 @@ http://stronglifts.com/squat/
 
 ![](https://media.giphy.com/media/Ox658KujC4ny8/giphy.gif)
 
+### The Basics
+
 http://stronglifts.com/bench-press/
 
 - Alan Thrall - How to bench
   + https://www.youtube.com/watch?v=BYKScL2sgCs
 
-
 ## Deadlift
 
 ![](https://media.giphy.com/media/M2qCVgOKaSNLG/giphy.gif)
+
+### The Basics
 
 http://stronglifts.com/deadlift/
 
@@ -43,6 +48,8 @@ http://stronglifts.com/deadlift/
 ## Overhead Press
 
 ![](http://i.imgur.com/GoYFIr5.gif)
+
+### The Basics
 
 http://stronglifts.com/overhead-press/
 
