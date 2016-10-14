@@ -6,6 +6,10 @@ But before we start, here's a liftin' llama:
 
 ![](https://media.giphy.com/media/3o6gb7ttGsXqohupz2/giphy.gif)
 
+### Contributing
+
+If you think there's something I miseed (there will be), then feel free to open up a pull request and add it!
+
 # The Lifts
 
 ## Squat
@@ -59,6 +63,24 @@ http://stronglifts.com/overhead-press/
   + https://www.youtube.com/watch?v=k4WoLZbonns
 - Brian Shaw
   + https://www.youtube.com/watch?v=crQO6HtH7C4
+
+# Reading Material
+
+- strengtheory
+  + http://strengtheory.com/category/articles/
+- elitefts
+  + https://www.elitefts.com/education/
+
+# Video Resources
+
+- Alan Thrall
+  + https://www.youtube.com/user/athrall7
+- Mark Bell
+  + https://www.youtube.com/user/supertraining06
+- Chris Duffin
+  + https://www.youtube.com/channel/UCTJXMoehEPDTsRwme-IpbMQ
+- Omar Isuf
+  + https://www.youtube.com/user/OmarIsuf
 
 # Basic Lifting Programs
 
