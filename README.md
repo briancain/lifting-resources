@@ -80,6 +80,8 @@ http://stronglifts.com/overhead-press/
   + http://strengtheory.com/category/articles/
 - elitefts
   + https://www.elitefts.com/education/
+- JTS Strenth
+  + http://www.jtsstrength.com/articles/
 
 # Video Resources
 
